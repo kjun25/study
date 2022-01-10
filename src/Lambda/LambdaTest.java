@@ -1,6 +1,6 @@
-package chap16;
+package Lambda;
 
-public class Lambda {
+public class LambdaTest {
     public static void main(String[] args) {
 
         FunctionInterface01 f = () -> System.out.println("FunctionInterface01 test");
